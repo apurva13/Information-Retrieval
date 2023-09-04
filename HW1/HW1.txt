@@ -1,0 +1,9 @@
+
+I was assigned the "Bing" search engine.
+
+
+As per the scraping and determining the relevance of Bing and Google reference datasets for the same 100 queries. I had a percent overlap of 22% and an average Spearman's rank correlation coefficient of -7.015357142857140. 
+
+The overlap tells us how many queries of the Bing search engine return similar results compared to Google. The average of similar results of Bing with Google will act as a qualifier of how well the Bing search engine performed. Further, the Spearman coefficient tells if the overlapping results are correlated to each other or not by assigning ranks.
+
+Finally, I can say that the Bing search engine did not perform well as it just had an overlap of 22% compared to Google's results. The value of the Spearman coefficient is negative which indicates that the overlap is uncorrelated. Thus, we can conclude that both Bing and Google search engines are using completely different algorithms for ranking and weighting the documents they determine are most relevant to the query.

@@ -1,0 +1,41 @@
+Name: Apurva Gupta
+USC ID: 4726453114
+News site crawled: wsj.com
+Number of threads used: 10
+
+Fetch Statistics:
+=====================
+# fetches attempted: 19898
+# fetches succeeded: 13969
+# fetches failed or aborted: 5929
+
+Outgoing URLs:
+=====================
+Total URLs extracted: 1316057
+# unique URLs extracted: 130957
+# unique URLs within news site: 104461
+# unique URLs outside news site: 26496
+
+Status Codes:
+=====================
+403 Forbidden: 4876
+404 Not Found: 138
+500 Internal Server Error: 515
+200 OK: 13969
+301 Moved Permanently: 341
+302 Found: 18
+
+File Sizes:
+=====================
+< 1KB: 3
+1KB ~ <10KB: 111
+10KB ~ <100KB: 101
+100KB ~ <1MB: 13036
+>= 1MB: 717
+
+Content Types:
+=====================
+image/png: 116
+text/html: 13818
+image/jpeg: 7
+
